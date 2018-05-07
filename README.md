@@ -17,5 +17,5 @@ Select the jar file in the program and click "Start Server".
   <li>Servers and Clients</li>
   <li>Basic Program Security</li>
   <li>Some more I/O</li>
-  <li>Finding your ip</li>
+  <li>Finding your IP and Mac Addresses</li>
 </ul>
